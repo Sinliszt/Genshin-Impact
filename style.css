@@ -60,7 +60,7 @@ div {
 .menu {
     list-style-type: none;
     cursor: pointer;
-    background-color: hotpink;
+    background-color: #ead9ff;
     margin: 0;
     position: fixed;
     width: 100%;
